@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ramouraaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá! Eu sou Ramon Moura
+
+- 👀 Procurando espaço no ramo de informática
+- 🌱 Cursando Ciencia da Programação
+- 😁 Ele/Dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramouraaa)](https://github.com/anuraghazra/github-readme-stats)
 
