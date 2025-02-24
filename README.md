@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ramon Moura
 
-- 👀 Procurando espaço no ramo de informática
+- 👀 Procurando espaço no ramo da programação
 - 🌱 Cursando Ciencia da Programação
 - 🖥️ Back-End
 
