@@ -2,6 +2,7 @@
 
 - 👀 Procurando espaço no ramo da programação
 - 🌱 Cursando Ciencia da Programação
+- 🎮 Desenvolvedor junior em criação de jogos digitais
 - 🖥️ Back-End
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramouraaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
